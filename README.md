@@ -4,6 +4,10 @@
 
 This lesson will give a deeper dive on how to create, manipulate, and retrieve data from arrays.
 
+testing to see if auto deploy works
+
+<script>alert('Hello World')</script>
+
 ## Objectives
 
 2. Create and populate an array.
